@@ -1,3 +1,6 @@
-Nombre y apellido:
+Nombre y apellido
  ALFA= Franco Tuama
- Beta= Tobias  Argañelas
+ Beta= Tobias Argañaraz
+
+Maquina info: Ip 192.168.56.1
+Hora: 10:42
